@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:OpenglES_Ch_02_01.xcodeproj">
+      location = "self:Opengles_ch_02_01.xcodeproj">
    </FileRef>
 </Workspace>
